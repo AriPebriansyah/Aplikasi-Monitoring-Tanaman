@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "79067367979",
+    "firebase_url": "https://plato-17bc4-default-rtdb.firebaseio.com",
+    "project_id": "plato-17bc4",
+    "storage_bucket": "plato-17bc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79067367979:android:a5c9938d0a93241519386e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79067367979-080lb1tkl58g497sukug915ml2vr03dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqXssrCTnYNsY2RCqzaP4xpao27iFXqIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79067367979-080lb1tkl58g497sukug915ml2vr03dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
